@@ -1,4 +1,4 @@
-# U24ClinicalImaging
+# Clinical MRI datasets 
 This dataset includes baseline and post-treatment diffusion-weighted MRI (DW-MRI) and dynamic contrast-enhanced MRI (DCE-MRI) from a pancreatic cancer patient enrolled in clinical trial entitled “A Randomized Pilot Study of Perioperative Nivolumab and Paricalcitol to Target the Microenvironment in Resectable Epithelial Subtype Pancreatic Cancer” (NCT03519308). 
 
 MRI data were obtained on a Siemens 1.5T system.
